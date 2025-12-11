@@ -23,18 +23,6 @@ The dataset was cleaned using the following operations:
 	•	Ensured all numerical columns were in number format
 	•	Recalculated Total Sales = Units Sold × Unit Price
 
-  1. Data Cleaning Steps
-
-The dataset was cleaned using the following operations:
-	•	Removed duplicate rows
-	•	Standardized product names
-	•	Corrected inconsistent category labels
-	•	Converted dates to proper date format
-	•	Created separate Month column
-	•	Fixed text casing and trimmed spaces
-	•	Ensured all numerical columns were in number format
-	•	Recalculated Total Sales = Units Sold × Unit Price
-
 2. Dashboard Overview
 
 The dashboard includes the following visual elements:
